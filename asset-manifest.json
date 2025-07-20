@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cute-apology/static/css/main.49d3da19.css",
+    "main.js": "/cute-apology/static/js/main.3e2ab0f3.js",
+    "static/js/453.cdc3951e.chunk.js": "/cute-apology/static/js/453.cdc3951e.chunk.js",
+    "index.html": "/cute-apology/index.html",
+    "main.49d3da19.css.map": "/cute-apology/static/css/main.49d3da19.css.map",
+    "main.3e2ab0f3.js.map": "/cute-apology/static/js/main.3e2ab0f3.js.map",
+    "453.cdc3951e.chunk.js.map": "/cute-apology/static/js/453.cdc3951e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49d3da19.css",
+    "static/js/main.3e2ab0f3.js"
+  ]
+}
